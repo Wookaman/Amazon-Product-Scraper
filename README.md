@@ -20,4 +20,4 @@ To run the code:
 The code will scrape the data from each product on the page, return a preview of the `DataFrame`, and save the results into a file called `amazon_data.csv` on your local machine.
 
 # Disclaimer
-Use responsibly and respect Amazon’s (robots.txt)[https://www.amazon.ca/robots.txt] and scraping policies.
+Use responsibly and respect Amazon’s (robots.txt)https://www.amazon.ca/robots.txt and scraping policies.
